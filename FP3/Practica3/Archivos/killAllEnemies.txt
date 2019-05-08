@@ -1,0 +1,9 @@
+attack
+attack
+attack
+go north
+go west
+attack
+attack
+go east
+go south
