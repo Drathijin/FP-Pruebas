@@ -1,5 +1,5 @@
 ﻿//Ricardo Sulbarán Socas
-//Nicolás Pastore Burgos
+//Nicolás Pastore Burgos el cruck
 using System;
 using System.IO;
 using Listas;
