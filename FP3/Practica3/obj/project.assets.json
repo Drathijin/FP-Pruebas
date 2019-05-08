@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/drathijin/Escritorio/FP3/Practica3/Practica3.csproj",
+      "projectUniqueName": "/home/drathijin/Escritorio/FP3/matame/FP-Pruebas/FP3/Practica3/Practica3.csproj",
       "projectName": "Practica3",
-      "projectPath": "/home/drathijin/Escritorio/FP3/Practica3/Practica3.csproj",
+      "projectPath": "/home/drathijin/Escritorio/FP3/matame/FP-Pruebas/FP3/Practica3/Practica3.csproj",
       "packagesPath": "/home/drathijin/.nuget/packages/",
-      "outputPath": "/home/drathijin/Escritorio/FP3/Practica3/obj/",
+      "outputPath": "/home/drathijin/Escritorio/FP3/matame/FP-Pruebas/FP3/Practica3/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
